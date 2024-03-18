@@ -1,0 +1,8 @@
+com\ifpb\passagens\entities\Passageiro.class
+com\ifpb\passagens\entities\Onibus.class
+com\ifpb\passagens\conexao\FabricaDeConexao.class
+com\ifpb\passagens\dao\OnibusDAO.class
+com\ifpb\passagens\entities\Itinerario.class
+com\ifpb\passagens\Main\main.class
+com\ifpb\passagens\dao\ItinerarioDAO.class
+com\ifpb\passagens\dao\PassageiroDAO.class
